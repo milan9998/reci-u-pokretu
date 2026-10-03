@@ -10,8 +10,6 @@ Android aplikacija za učenje vokabulara kroz slike. Korisnik prvo bira tematski
 
 Na Windowsu možeš da napraviš APK komandom `gradlew.bat assembleDebug`. APK će biti u `app/build/outputs/apk/debug/`.
 
-Gotov APK za instalaciju nalazi se u odeljku **Releases** ovog repozitorijuma.
-
 ## Korišćenje
 
 - Na početnoj strani izaberi **Priroda**, **Škola**, **Kuhinja**, **Dnevna soba** ili **Ostalo**. Možeš i da dodaš novi folder.
