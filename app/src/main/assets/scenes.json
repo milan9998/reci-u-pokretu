@@ -1,0 +1,1030 @@
+{
+  "version": 1,
+  "scenes": [
+    {
+      "id": "nature_forest",
+      "folderId": "priroda",
+      "title": "Šuma",
+      "image": "scenes/nature_forest.png",
+      "hotspots": [
+        {
+          "sr": "drvo",
+          "en": "tree",
+          "ru": "дерево",
+          "box": [
+            0.02,
+            0.02,
+            0.29,
+            0.77
+          ]
+        },
+        {
+          "sr": "pečurka",
+          "en": "mushroom",
+          "ru": "гриб",
+          "box": [
+            0.26,
+            0.52,
+            0.52,
+            0.83
+          ]
+        },
+        {
+          "sr": "potok",
+          "en": "stream",
+          "ru": "ручей",
+          "box": [
+            0.55,
+            0.34,
+            0.99,
+            0.92
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nature_river",
+      "folderId": "priroda",
+      "title": "Obala reke",
+      "image": "scenes/nature_river.png",
+      "hotspots": [
+        {
+          "sr": "kamen",
+          "en": "stone",
+          "ru": "камень",
+          "box": [
+            0.02,
+            0.4,
+            0.36,
+            0.94
+          ]
+        },
+        {
+          "sr": "reka",
+          "en": "river",
+          "ru": "река",
+          "box": [
+            0.36,
+            0.44,
+            0.85,
+            0.96
+          ]
+        },
+        {
+          "sr": "vrba",
+          "en": "willow",
+          "ru": "ива",
+          "box": [
+            0.68,
+            0.02,
+            0.99,
+            0.53
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nature_mountain",
+      "folderId": "priroda",
+      "title": "Planina",
+      "image": "scenes/nature_mountain.png",
+      "hotspots": [
+        {
+          "sr": "cvet",
+          "en": "flower",
+          "ru": "цветок",
+          "box": [
+            0.01,
+            0.38,
+            0.42,
+            0.94
+          ]
+        },
+        {
+          "sr": "planina",
+          "en": "mountain",
+          "ru": "гора",
+          "box": [
+            0.29,
+            0.16,
+            0.78,
+            0.51
+          ]
+        },
+        {
+          "sr": "oblak",
+          "en": "cloud",
+          "ru": "облако",
+          "box": [
+            0.72,
+            0.05,
+            0.94,
+            0.32
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nature_lake",
+      "folderId": "priroda",
+      "title": "Jezero",
+      "image": "scenes/nature_lake.png",
+      "hotspots": [
+        {
+          "sr": "čamac",
+          "en": "boat",
+          "ru": "лодка",
+          "box": [
+            0.01,
+            0.54,
+            0.31,
+            0.88
+          ]
+        },
+        {
+          "sr": "jezero",
+          "en": "lake",
+          "ru": "озеро",
+          "box": [
+            0.32,
+            0.53,
+            0.76,
+            0.88
+          ]
+        },
+        {
+          "sr": "bor",
+          "en": "pine",
+          "ru": "сосна",
+          "box": [
+            0.73,
+            0.02,
+            0.96,
+            0.66
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nature_meadow",
+      "folderId": "priroda",
+      "title": "Livada",
+      "image": "scenes/nature_meadow.png",
+      "hotspots": [
+        {
+          "sr": "leptir",
+          "en": "butterfly",
+          "ru": "бабочка",
+          "box": [
+            0.02,
+            0.2,
+            0.28,
+            0.62
+          ]
+        },
+        {
+          "sr": "suncokret",
+          "en": "sunflower",
+          "ru": "подсолнух",
+          "box": [
+            0.3,
+            0.36,
+            0.63,
+            0.9
+          ]
+        },
+        {
+          "sr": "ovca",
+          "en": "sheep",
+          "ru": "овца",
+          "box": [
+            0.68,
+            0.31,
+            0.96,
+            0.72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school_classroom",
+      "folderId": "skola",
+      "title": "Učionica",
+      "image": "scenes/school_classroom.png",
+      "hotspots": [
+        {
+          "sr": "školska klupa",
+          "en": "desk",
+          "ru": "парта",
+          "box": [
+            0.02,
+            0.4,
+            0.45,
+            0.97
+          ]
+        },
+        {
+          "sr": "tabla",
+          "en": "board",
+          "ru": "доска",
+          "box": [
+            0.2,
+            0.02,
+            0.77,
+            0.39
+          ]
+        },
+        {
+          "sr": "stolica",
+          "en": "chair",
+          "ru": "стул",
+          "box": [
+            0.67,
+            0.36,
+            0.98,
+            0.97
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school_library",
+      "folderId": "skola",
+      "title": "Biblioteka",
+      "image": "scenes/school_library.png",
+      "hotspots": [
+        {
+          "sr": "knjiga",
+          "en": "book",
+          "ru": "книга",
+          "box": [
+            0.02,
+            0.49,
+            0.34,
+            0.73
+          ]
+        },
+        {
+          "sr": "polica za knjige",
+          "en": "bookshelf",
+          "ru": "книжная полка",
+          "box": [
+            0.28,
+            0.01,
+            0.8,
+            0.75
+          ]
+        },
+        {
+          "sr": "lampa",
+          "en": "lamp",
+          "ru": "лампа",
+          "box": [
+            0.78,
+            0.1,
+            0.99,
+            0.63
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school_science",
+      "folderId": "skola",
+      "title": "Laboratorija",
+      "image": "scenes/school_science.png",
+      "hotspots": [
+        {
+          "sr": "laboratorijska čaša",
+          "en": "beaker",
+          "ru": "химический стакан",
+          "box": [
+            0.09,
+            0.47,
+            0.25,
+            0.77
+          ]
+        },
+        {
+          "sr": "mikroskop",
+          "en": "microscope",
+          "ru": "микроскоп",
+          "box": [
+            0.36,
+            0.14,
+            0.62,
+            0.76
+          ]
+        },
+        {
+          "sr": "globus",
+          "en": "globe",
+          "ru": "глобус",
+          "box": [
+            0.73,
+            0.2,
+            0.97,
+            0.79
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school_hallway",
+      "folderId": "skola",
+      "title": "Školski hodnik",
+      "image": "scenes/school_hallway.png",
+      "hotspots": [
+        {
+          "sr": "ormarić",
+          "en": "locker",
+          "ru": "шкафчик",
+          "box": [
+            0.01,
+            0.01,
+            0.35,
+            0.96
+          ]
+        },
+        {
+          "sr": "sat",
+          "en": "clock",
+          "ru": "часы",
+          "box": [
+            0.43,
+            0.01,
+            0.6,
+            0.26
+          ]
+        },
+        {
+          "sr": "vrata",
+          "en": "door",
+          "ru": "дверь",
+          "box": [
+            0.77,
+            0.04,
+            0.99,
+            0.97
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school_art",
+      "folderId": "skola",
+      "title": "Likovna učionica",
+      "image": "scenes/school_art.png",
+      "hotspots": [
+        {
+          "sr": "četkica",
+          "en": "paintbrush",
+          "ru": "кисть",
+          "box": [
+            0.04,
+            0.28,
+            0.25,
+            0.75
+          ]
+        },
+        {
+          "sr": "štafelaj",
+          "en": "easel",
+          "ru": "мольберт",
+          "box": [
+            0.33,
+            0.06,
+            0.67,
+            0.92
+          ]
+        },
+        {
+          "sr": "paleta",
+          "en": "palette",
+          "ru": "палитра",
+          "box": [
+            0.72,
+            0.57,
+            0.98,
+            0.85
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kitchen_sink",
+      "folderId": "kuhinja",
+      "title": "Sudopera",
+      "image": "scenes/kitchen_sink.png",
+      "hotspots": [
+        {
+          "sr": "sudopera",
+          "en": "sink",
+          "ru": "раковина",
+          "box": [
+            0.01,
+            0.38,
+            0.4,
+            0.85
+          ]
+        },
+        {
+          "sr": "jabuka",
+          "en": "apple",
+          "ru": "яблоко",
+          "box": [
+            0.46,
+            0.61,
+            0.58,
+            0.81
+          ]
+        },
+        {
+          "sr": "frižider",
+          "en": "refrigerator",
+          "ru": "холодильник",
+          "box": [
+            0.72,
+            0.07,
+            0.99,
+            0.91
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kitchen_stove",
+      "folderId": "kuhinja",
+      "title": "Šporet",
+      "image": "scenes/kitchen_stove.png",
+      "hotspots": [
+        {
+          "sr": "lonac",
+          "en": "pot",
+          "ru": "кастрюля",
+          "box": [
+            0.01,
+            0.33,
+            0.3,
+            0.72
+          ]
+        },
+        {
+          "sr": "šporet",
+          "en": "stove",
+          "ru": "плита",
+          "box": [
+            0.28,
+            0.43,
+            0.71,
+            0.79
+          ]
+        },
+        {
+          "sr": "tiganj",
+          "en": "pan",
+          "ru": "сковорода",
+          "box": [
+            0.71,
+            0.46,
+            0.99,
+            0.72
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kitchen_breakfast",
+      "folderId": "kuhinja",
+      "title": "Doručak",
+      "image": "scenes/kitchen_breakfast.png",
+      "hotspots": [
+        {
+          "sr": "šolja",
+          "en": "cup",
+          "ru": "чашка",
+          "box": [
+            0.01,
+            0.37,
+            0.23,
+            0.71
+          ]
+        },
+        {
+          "sr": "hleb",
+          "en": "bread",
+          "ru": "хлеб",
+          "box": [
+            0.27,
+            0.29,
+            0.64,
+            0.72
+          ]
+        },
+        {
+          "sr": "tanjir",
+          "en": "plate",
+          "ru": "тарелка",
+          "box": [
+            0.64,
+            0.49,
+            0.99,
+            0.83
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kitchen_baking",
+      "folderId": "kuhinja",
+      "title": "Pečenje",
+      "image": "scenes/kitchen_baking.png",
+      "hotspots": [
+        {
+          "sr": "brašno",
+          "en": "flour",
+          "ru": "мука",
+          "box": [
+            0.01,
+            0.28,
+            0.25,
+            0.77
+          ]
+        },
+        {
+          "sr": "oklagija",
+          "en": "rolling pin",
+          "ru": "скалка",
+          "box": [
+            0.19,
+            0.69,
+            0.78,
+            0.94
+          ]
+        },
+        {
+          "sr": "rerna",
+          "en": "oven",
+          "ru": "духовка",
+          "box": [
+            0.59,
+            0.01,
+            0.99,
+            0.58
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kitchen_pantry",
+      "folderId": "kuhinja",
+      "title": "Namirnice",
+      "image": "scenes/kitchen_pantry.png",
+      "hotspots": [
+        {
+          "sr": "mleko",
+          "en": "milk",
+          "ru": "молоко",
+          "box": [
+            0.07,
+            0.08,
+            0.28,
+            0.85
+          ]
+        },
+        {
+          "sr": "banana",
+          "en": "banana",
+          "ru": "банан",
+          "box": [
+            0.31,
+            0.3,
+            0.67,
+            0.78
+          ]
+        },
+        {
+          "sr": "činija",
+          "en": "bowl",
+          "ru": "миска",
+          "box": [
+            0.66,
+            0.32,
+            0.99,
+            0.8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living_sofa",
+      "folderId": "dnevna",
+      "title": "Kauč",
+      "image": "scenes/living_sofa.png",
+      "hotspots": [
+        {
+          "sr": "jastuk",
+          "en": "cushion",
+          "ru": "подушка",
+          "box": [
+            0.14,
+            0.35,
+            0.36,
+            0.59
+          ]
+        },
+        {
+          "sr": "kauč",
+          "en": "sofa",
+          "ru": "диван",
+          "box": [
+            0.08,
+            0.32,
+            0.79,
+            0.77
+          ]
+        },
+        {
+          "sr": "lampa",
+          "en": "lamp",
+          "ru": "лампа",
+          "box": [
+            0.68,
+            0.08,
+            0.87,
+            0.73
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living_tv",
+      "folderId": "dnevna",
+      "title": "Televizor",
+      "image": "scenes/living_tv.png",
+      "hotspots": [
+        {
+          "sr": "daljinski upravljač",
+          "en": "remote control",
+          "ru": "пульт",
+          "box": [
+            0.07,
+            0.81,
+            0.29,
+            0.96
+          ]
+        },
+        {
+          "sr": "televizor",
+          "en": "television",
+          "ru": "телевизор",
+          "box": [
+            0.23,
+            0.08,
+            0.66,
+            0.47
+          ]
+        },
+        {
+          "sr": "tepih",
+          "en": "rug",
+          "ru": "ковёр",
+          "box": [
+            0.39,
+            0.76,
+            0.99,
+            0.99
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living_coffee",
+      "folderId": "dnevna",
+      "title": "Stočić",
+      "image": "scenes/living_coffee.png",
+      "hotspots": [
+        {
+          "sr": "knjiga",
+          "en": "book",
+          "ru": "книга",
+          "box": [
+            0.01,
+            0.43,
+            0.4,
+            0.72
+          ]
+        },
+        {
+          "sr": "šolja",
+          "en": "cup",
+          "ru": "чашка",
+          "box": [
+            0.39,
+            0.35,
+            0.62,
+            0.65
+          ]
+        },
+        {
+          "sr": "stočić",
+          "en": "coffee table",
+          "ru": "журнальный столик",
+          "box": [
+            0.6,
+            0.41,
+            0.99,
+            0.94
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living_window",
+      "folderId": "dnevna",
+      "title": "Prozor",
+      "image": "scenes/living_window.png",
+      "hotspots": [
+        {
+          "sr": "sobna biljka",
+          "en": "houseplant",
+          "ru": "комнатное растение",
+          "box": [
+            0.01,
+            0.09,
+            0.32,
+            0.91
+          ]
+        },
+        {
+          "sr": "prozor",
+          "en": "window",
+          "ru": "окно",
+          "box": [
+            0.29,
+            0.01,
+            0.77,
+            0.79
+          ]
+        },
+        {
+          "sr": "zavesa",
+          "en": "curtain",
+          "ru": "штора",
+          "box": [
+            0.73,
+            0.01,
+            0.93,
+            0.92
+          ]
+        }
+      ]
+    },
+    {
+      "id": "living_fireplace",
+      "folderId": "dnevna",
+      "title": "Kamin",
+      "image": "scenes/living_fireplace.png",
+      "hotspots": [
+        {
+          "sr": "fotelja",
+          "en": "armchair",
+          "ru": "кресло",
+          "box": [
+            0.01,
+            0.35,
+            0.34,
+            0.86
+          ]
+        },
+        {
+          "sr": "kamin",
+          "en": "fireplace",
+          "ru": "камин",
+          "box": [
+            0.39,
+            0.23,
+            0.74,
+            0.8
+          ]
+        },
+        {
+          "sr": "sat",
+          "en": "clock",
+          "ru": "часы",
+          "box": [
+            0.79,
+            0.01,
+            0.99,
+            0.29
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other_city",
+      "folderId": "ostalo",
+      "title": "Ulica",
+      "image": "scenes/other_city.png",
+      "hotspots": [
+        {
+          "sr": "bicikl",
+          "en": "bicycle",
+          "ru": "велосипед",
+          "box": [
+            0.04,
+            0.4,
+            0.3,
+            0.75
+          ]
+        },
+        {
+          "sr": "semafor",
+          "en": "traffic light",
+          "ru": "светофор",
+          "box": [
+            0.46,
+            0.01,
+            0.58,
+            0.73
+          ]
+        },
+        {
+          "sr": "automobil",
+          "en": "car",
+          "ru": "автомобиль",
+          "box": [
+            0.67,
+            0.34,
+            0.99,
+            0.76
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other_bathroom",
+      "folderId": "ostalo",
+      "title": "Kupatilo",
+      "image": "scenes/other_bathroom.png",
+      "hotspots": [
+        {
+          "sr": "peškir",
+          "en": "towel",
+          "ru": "полотенце",
+          "box": [
+            0.01,
+            0.57,
+            0.28,
+            0.83
+          ]
+        },
+        {
+          "sr": "lavabo",
+          "en": "sink",
+          "ru": "раковина",
+          "box": [
+            0.27,
+            0.49,
+            0.71,
+            0.87
+          ]
+        },
+        {
+          "sr": "ogledalo",
+          "en": "mirror",
+          "ru": "зеркало",
+          "box": [
+            0.68,
+            0.01,
+            0.99,
+            0.63
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other_bedroom",
+      "folderId": "ostalo",
+      "title": "Spavaća soba",
+      "image": "scenes/other_bedroom.png",
+      "hotspots": [
+        {
+          "sr": "ormar",
+          "en": "wardrobe",
+          "ru": "шкаф",
+          "box": [
+            0.01,
+            0.01,
+            0.32,
+            0.7
+          ]
+        },
+        {
+          "sr": "jastuk",
+          "en": "pillow",
+          "ru": "подушка",
+          "box": [
+            0.56,
+            0.34,
+            0.75,
+            0.55
+          ]
+        },
+        {
+          "sr": "krevet",
+          "en": "bed",
+          "ru": "кровать",
+          "box": [
+            0.29,
+            0.31,
+            0.88,
+            0.89
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other_playground",
+      "folderId": "ostalo",
+      "title": "Igralište",
+      "image": "scenes/other_playground.png",
+      "hotspots": [
+        {
+          "sr": "ljuljaška",
+          "en": "swing",
+          "ru": "качели",
+          "box": [
+            0.01,
+            0.02,
+            0.38,
+            0.78
+          ]
+        },
+        {
+          "sr": "lopta",
+          "en": "ball",
+          "ru": "мяч",
+          "box": [
+            0.41,
+            0.7,
+            0.61,
+            0.93
+          ]
+        },
+        {
+          "sr": "tobogan",
+          "en": "slide",
+          "ru": "горка",
+          "box": [
+            0.67,
+            0.07,
+            0.94,
+            0.75
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other_market",
+      "folderId": "ostalo",
+      "title": "Prodavnica",
+      "image": "scenes/other_market.png",
+      "hotspots": [
+        {
+          "sr": "korpa",
+          "en": "basket",
+          "ru": "корзина",
+          "box": [
+            0.01,
+            0.36,
+            0.32,
+            0.93
+          ]
+        },
+        {
+          "sr": "banana",
+          "en": "banana",
+          "ru": "банан",
+          "box": [
+            0.29,
+            0.23,
+            0.62,
+            0.59
+          ]
+        },
+        {
+          "sr": "polica",
+          "en": "shelf",
+          "ru": "полка",
+          "box": [
+            0.68,
+            0.01,
+            0.99,
+            0.93
+          ]
+        }
+      ]
+    }
+  ]
+}
